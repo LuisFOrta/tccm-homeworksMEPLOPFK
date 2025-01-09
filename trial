@@ -1,0 +1,13 @@
+Writing pseudo code
+and functions of MOLECULAR DYNAMICS
+
+0 read Natoms - luis/ Fareeda 
+1 Read mass and coordinates - luis/Mario  
+2 Calculate internuclear distance - luis/Fareeda 
+3 compute the total potential F : - Fareeda/Luis 
+4 compute the total kinetic energy T - Mario/ Fareeda
+5 Calculate acceleration - F and Mario /Luis
+6 Implement Molecular dynamics - all 
+
+deadline = 25 december
+

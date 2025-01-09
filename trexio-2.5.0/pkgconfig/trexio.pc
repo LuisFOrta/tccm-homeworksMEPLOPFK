@@ -1,0 +1,16 @@
+prefix=/usr/local
+exec_prefix=${prefix}
+includedir=${prefix}/include
+libdir=${exec_prefix}/lib
+
+Name: trexio
+Description: TREX Input/Output library
+URL: https://github.com/trex-coe/trexio
+Version: 2.5.0
+Cflags:  -I${includedir}
+Libs: -L${libdir} -ltrexio
+Libs.private: -lhdf5 
+Requires: 
+Requires.private: 
+
+
